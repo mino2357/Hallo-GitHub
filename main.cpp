@@ -17,4 +17,5 @@ int main(){
   std::cout << plus(2, 3) << std::endl;
   std::cout << plus<int>(2, 3) << std::endl;
   std::cout << minus<int>(2, 3) << std::endl;
+  std::cout << 2 * 3 << std::endl;
 }
